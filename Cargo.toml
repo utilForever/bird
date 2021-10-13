@@ -1,0 +1,13 @@
+[package]
+name = "bird"
+version = "0.0.1"
+authors = [ "Chris Ohk <utilforever@gmail.com>" ]
+edition = "2018"
+description = "TOML-based C++ Build Script Generator with Crates of Rust Language"
+
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
